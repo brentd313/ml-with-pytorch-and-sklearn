@@ -1,3 +1,4 @@
+# Object-oriented perceptron API (Chapter 2)
 import numpy as np
 
 class RMCPPerceptron:
